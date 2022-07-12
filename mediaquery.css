@@ -1,0 +1,13 @@
+@media (max-width: 800px) {
+
+    .nav-list {
+        position: absolute;
+        top: 85px;
+        right: 0;
+        width: 50vw;
+        height: 85%;
+
+
+
+    }
+}
